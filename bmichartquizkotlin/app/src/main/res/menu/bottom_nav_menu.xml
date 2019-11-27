@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_bmi"
+        android:icon="@drawable/ic_food_black_24dp"
+        android:title="@string/title_bmi" />
+
+    <item
+        android:id="@+id/navigation_miffin"
+        android:icon="@drawable/ic_calculator_black_24dp"
+        android:title="@string/title_miffin" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_gamepad_black_24dp"
+        android:title="@string/title_quiz" />
+
+    <item
+        android:id="@+id/navigation_chart"
+        android:icon="@drawable/ic_chart_line_black_24dp"
+        android:title="@string/title_chart" />
+</menu>

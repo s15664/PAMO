@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">The Cool Health App</string>
+    <string name="title_home">Home</string>
+    <string name="title_bmi">BMI</string>
+    <string name="title_miffin">Miffin</string>
+    <string name="text_quiz">Quiz zdrowotny</string>
+    <string name="text_mass">PODAJ WAGĘ(kg):</string>
+    <string name="text_height">PODAJ WZROST(m):</string>
+    <string name="text_bmi">TWOJE BMI:</string>
+    <string name="text_button">OBLICZ</string>
+    <string name="height_hint">1.80</string>
+    <string name="mass_hint">69</string>
+    <string name="text_home">WITAMY</string>
+    <string name="bmi_1">NIEDOWAGA</string>
+    <string name="bmi_2">NORMA</string>
+    <string name="bmi_3">NADWAGA</string>
+    <string name="bmi_4">OTYŁOŚĆ</string>
+    <string name="gender_1">FACET</string>
+    <string name="gender_2">BABA</string>
+    <string name="text_miffin">MIFFIN</string>
+    <string name="text_age">PODAJ WIEK</string>
+    <string name="img">food image</string>
+    <string name="text_miffin_result">TWOJE ZAPOTRZEBOWANIE KALORYCZNE:</string>
+    <string name="title_quiz">QUIZ</string>
+    <string name="title_chart">Chart</string>
+    <string name="result">Twój wynik to:</string>
+    <string name="result_2">na 5 możliwych punktów.</string>
+    <string name="restart">Spróbuj jeszcze raz</string>
+    <string name="question_1">Który produkt ma największą procentową zawartość białka?</string>
+    <string name="question_2">Które ćwiczenia są nastawione na chudnięcie?</string>
+    <string name="question_3">Który produkt jest najbardziej kaloryczny?</string>
+    <string name="question_4">Które ćwiczenie najmniej obciąża stawy?</string>
+    <string name="question_5">Jaka jest optymalna wartość BMI?</string>
+    <string name="answer_1_good">Jajko</string>
+    <string name="answer_1_bad_1">Mleko</string>
+    <string name="answer_1_bad_2">Miód</string>
+    <string name="answer_1_bad_3">Jabłko</string>
+    <string name="answer_2_good">Aerobowe</string>
+    <string name="answer_2_bad_1">Siłowe</string>
+    <string name="answer_2_bad_2">Rozciągające</string>
+    <string name="answer_2_bad_3">Koordynacyjne</string>
+    <string name="answer_3_good">Margaryna</string>
+    <string name="answer_3_bad_1">Ryż</string>
+    <string name="answer_3_bad_2">Chleb</string>
+    <string name="answer_3_bad_3">Jajko</string>
+    <string name="answer_4_good">Pływanie</string>
+    <string name="answer_4_bad_1">Przysiady ze sztangą</string>
+    <string name="answer_4_bad_2">Podciągnięcia</string>
+    <string name="answer_4_bad_3">Kolarstwo</string>
+    <string name="answer_5_good">18.5-25 </string>
+    <string name="answer_5_bad_1">25-30</string>
+    <string name="answer_5_bad_2">mniej niż 18.5 </string>
+    <string name="answer_5_bad_3">więcej niż 30</string>
+
+
+</resources>
